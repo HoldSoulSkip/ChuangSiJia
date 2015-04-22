@@ -1,1 +1,2 @@
 this is my new git test project
+this is new note
